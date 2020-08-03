@@ -1,4 +1,9 @@
-### Hi there 👋
+[MrRobot<3](https://i.gifer.com/XQIy.gif)
+## Hi my name is Clément alias cain im a computer science lover.
+### - 🔭 I'm currently working on Méphistophélès Project and other stuff that im gonna release soon.
+### - 🖥️ I know C++/C#/Python and i do some reverse enginnering, game hacking, pentest.
+### - 🤔 I’m looking for coder job so if your searching cool coder here is my discord: cain#1988
+### - ⚡ Fun fact: I love Matrix and Mr.Robot but i think you noticed it :wink:
 
 <!--
 **call-042PE/call-042PE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
