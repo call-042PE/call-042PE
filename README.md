@@ -1,5 +1,5 @@
 ![MrRobot](https://image.noelshack.com/fichiers/2020/32/1/1596459300-mrrobot2.gif)
-## Hi my name is Clément alias cain im a french coder/reverser.
+## Hi my name is cain im a french coder/reverser.
 ### - 🔭 I'm currently working on Méphistophélès Project and other stuff that im gonna release soon.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering, game hacking, pentest.
 ### - I’m looking for coder job so if your searching cool coder here is my discord: cain#1988
