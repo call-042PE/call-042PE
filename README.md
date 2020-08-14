@@ -2,7 +2,7 @@
 ## Hi my name is cain im a french coder/reverser.
 ### - 🔭 I'm currently working on Méphistophélès Project and other stuff that im gonna release soon.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering, game hacking, pentest.
-### - I’m looking for coder job so if your searching cool coder here is my discord: ring#0992
+### - My discord: ring#0992
 
 <!--
 **call-042PE/call-042PE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
