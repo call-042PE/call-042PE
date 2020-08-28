@@ -1,7 +1,7 @@
 ![MrRobot](https://image.noelshack.com/fichiers/2020/32/1/1596459300-mrrobot2.gif)
 ## Hi my name is cain im a french coder/reverser.
 ### - 🔭 I'm currently working on Méphistophélès Project and other stuff that im gonna release soon.
-### - 🖥️ I know C++/C#/Python and i do some reverse enginnering, game hacking, pentest.
+### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
 ### - My discord: flesh#0992
 
 <!--
