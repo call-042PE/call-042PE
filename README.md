@@ -1,6 +1,6 @@
 ![Hi](https://image.noelshack.com/fichiers/2020/35/5/1598601380-tenor.gif)
 ## Hi my name is cain im a french coder/reverser.
-### - 🔭 I'm currently working on Méphistophélès Project and other stuff that im gonna release soon.
+### - 🔭 I'm currently working on EurosTeam Project.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
 ### - My discord: flesh#0992
 
