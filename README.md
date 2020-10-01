@@ -2,7 +2,7 @@
 ## Hi my name is cain im a french coder/reverser.
 ### - 🔭 I'm currently working on EurosTeam Project.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
-### - My discord: flesh#0992
+### - My discord: euros#0992
 
 <!--
 **call-042PE/call-042PE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
