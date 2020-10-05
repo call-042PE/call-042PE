@@ -1,5 +1,6 @@
 ![Hi](https://image.noelshack.com/fichiers/2020/35/5/1598601380-tenor.gif)
-## Hi my name is cain im a french coder/reverser.
+## Hi my name is cain im a french coder/reverse-engineer.
+## Привет миня зовут Каин я етот француз кодер/обратный инженер.
 ### - 🔭 I'm currently working on EurosTeam Project.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
 ### - My discord: euros#0992
