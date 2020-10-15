@@ -5,6 +5,10 @@
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
 ### - My discord: euros#0992
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call-042PE&layout=compact" alt="call-042PE" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=call-042PE&show_icons=true" alt="call-042PE" /></p>
+
 <!--
 **call-042PE/call-042PE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
