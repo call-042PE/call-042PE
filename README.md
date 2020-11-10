@@ -3,7 +3,7 @@
 ## Привет миня зовут Каин я етот француз кодер/обратный инженер.
 ### - 🔭 I'm currently working on EurosTeam Project.
 ### - 🖥️ I know C++/C#/Python and i do some reverse enginnering and game hacking.
-### - My discord: napoleon#0992
+### - My discord: napoleon#9092
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call-042PE&layout=compact" alt="call-042PE" /></p>
 
