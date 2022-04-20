@@ -1,6 +1,4 @@
 ![Hi](https://image.noelshack.com/fichiers/2020/35/5/1598601380-tenor.gif)
-## Hi my name is cain im a french coder/reverse-engineer.
-## Привет миня зовут Каин я етот француз кодер/обратный инженер.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=call-042PE&layout=compact" alt="call-042PE" /></p>
 
